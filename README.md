@@ -37,11 +37,10 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayashree-25&theme=radical" alt="GitHub Streak" />
 </p>
-
----
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jayashree-25&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
+
+---
 
 <p align="center">✨ *Thanks for stopping by! Happy coding!* ✨</p>
