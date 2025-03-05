@@ -13,10 +13,19 @@
 ---
 
 ### 🌸 About Me:
-- 🎨 Crafting **beautiful and functional** web applications with a passion for design and performance.
-- 🔥 Exploring **backend technologies** and **API development & integration** to enhance my skills.
-- 🌱 Currently diving into the **MERN stack**, database management, and API fetching.
-- ✨ Always eager to **innovate, learn, and collaborate** on exciting projects!
+- 🎨 Crafting *beautiful and functional* web applications with a passion for design and performance.
+- 🔥 Exploring *backend technologies* and *API development & integration* to enhance my skills.
+- 🌱 Currently diving into the *MERN stack*, database management, and API fetching.
+- ✨ Always eager to *innovate, learn, and collaborate* on exciting projects!
+
+---
+
+### 🛠 Tech Stack:
+- 💻 *Frontend:* HTML, CSS, JavaScript, React
+- 🚀 *Backend:* Node.js, Express.js
+- 🔗 *API & Tools:* RESTful APIs, Postman
+- 🗄 *Database:* MongoDB
+- 🔧 *Development Tools:* Git, GitHub, VS Code, Figma
 
 ---
 
@@ -31,8 +40,15 @@
 
 ---
 
+### 🌟 3D GitHub Contribution Graph:
+<p align="center">
+  <img src="https://github.com/jayashree-25/jayashree-25/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph" />
+</p>
+
+---
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jayashree-25&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">✨ **Thanks for stopping by! Happy coding!** ✨</p>
+<p align="center">✨ *Thanks for stopping by! Happy coding!* ✨</p>
