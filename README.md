@@ -40,13 +40,6 @@
 
 ---
 
-### 🌟 3D GitHub Contribution Graph:
-<p align="center">
-  <img src="https://github.com/jayashree-25/jayashree-25/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph" />
-</p>
-
----
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jayashree-25&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
