@@ -7,7 +7,7 @@
 <h3 align="center">💻 Frontend Enthusiast | Backend Learner | API Explorer | Web Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Girl Coding GIF" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Woman Coding GIF" />
 </p>
 
 ---
