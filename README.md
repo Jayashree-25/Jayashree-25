@@ -43,8 +43,29 @@ Docker • GitHub Actions • Postman • VS Code
 
 ### 📌 Featured Projects
 
-- [**CampusGig**](https://github.com/jayashree-25/CampusGig) — Peer-to-peer campus marketplace for freelance gig services (React + Vite + Express)
-- [**Journal_Web**](https://github.com/jayashree-25/Journal_Web) — Full-stack journal app with JWT authentication (React + Express + MongoDB)
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 16px 20px; margin-bottom: 16px; background-color: #0d1117;">
+
+### CampusGig
+
+**About:** Peer-to-peer campus marketplace where students find, list, order, and message freelance gig services.
+
+**Tech Stack:** React • Vite • Tailwind CSS • Express.js
+
+[View Repository](https://github.com/jayashree-25/CampusGig)
+
+</div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 16px 20px; margin-bottom: 16px; background-color: #0d1117;">
+
+### Journal_Web
+
+**About:** Full-stack journal app with JWT authentication where users can add, edit, view, and delete personal journal entries.
+
+**Tech Stack:** React • Express.js • MongoDB • JWT
+
+[View Repository](https://github.com/jayashree-25/Journal_Web)
+
+</div>
 
 ---
 
