@@ -14,10 +14,9 @@
 
 ### 🌸 About Me
 
-- 🎨 Crafting *beautiful and functional* web applications with a passion for design and performance.
-- 🔥 Exploring *backend technologies* and *API development & integration* to enhance my skills.
-- 🌱 Currently diving into the *MERN stack*, database management, and API fetching.
-- ✨ Always eager to *innovate, learn, and collaborate* on exciting projects!
+I build scalable web applications and production-ready digital products, with hands-on experience across frontend architecture, backend APIs, databases, authentication, and third-party integrations.
+
+I've worked on multi-application systems, reusable UI architecture, full-stack website builders, role-based applications, and API-driven products. I enjoy breaking complex requirements into clean, maintainable solutions and building systems that can scale beyond a single application.
 
 ---
 
