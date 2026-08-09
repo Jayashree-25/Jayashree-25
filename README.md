@@ -45,37 +45,56 @@ Docker • GitHub Actions • Postman • VS Code
 
 <table>
 <tr>
-<td width="50%" valign="top" style="padding: 6px;">
-
-<div style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 18px 20px; height: 100%; box-sizing: border-box;">
-
-<p align="center" style="margin: 0 0 12px 0; color: #709164; font-weight: 700; font-size: 16px;">CampusGig</p>
-
-<p style="margin: 0 0 16px 0; color: #aab3bd; font-size: 13px; line-height: 1.55;">Peer-to-peer campus marketplace where students can find, list, order, and message freelance gig services.</p>
-
-<p style="margin: 0 0 8px 0; color: #aab3bd; font-size: 13px; line-height: 1.5;"><span style="color: #709164; font-weight: 600;">Tech Stack:</span> React • Vite • Express • Tailwind CSS</p>
-
-<p style="margin: 0; color: #aab3bd; font-size: 13px; line-height: 1.5;"><span style="color: #709164; font-weight: 600;"></span> <a href="https://github.com/Jayashree-25/CampusGig" style="color: #709164; text-decoration: none;">View Repository</a></p>
-
-</div>
-
-</td>
 
 <td width="50%" valign="top" style="padding: 6px;">
 
 <div style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 18px 20px; height: 100%; box-sizing: border-box;">
 
-<p align="center" style="margin: 0 0 12px 0; color: #709164; font-weight: 700; font-size: 16px;">Journal_Web</p>
+<p align="center" style="margin: 0 0 12px 0; font-weight: 700; font-size: 16px;">
+<a href="https://github.com/Jayashree-25/CampusGig" style="color: #709164; text-decoration: none;">CampusGig</a>
+</p>
 
-<p style="margin: 0 0 16px 0; color: #aab3bd; font-size: 13px; line-height: 1.55;">Full-stack journal application with JWT authentication for creating, editing, viewing, and deleting personal journal entries.</p>
+<p style="margin: 0 0 16px 0; color: #aab3bd; font-size: 13px; line-height: 1.55;">
+Peer-to-peer campus marketplace where students can find, list, order, and message freelance gig services.
+</p>
 
-<p style="margin: 0 0 8px 0; color: #aab3bd; font-size: 13px; line-height: 1.5;"><span style="color: #709164; font-weight: 600;">Tech Stack:</span> React • Express • MongoDB • JWT</p>
+<p style="margin: 0 0 8px 0; color: #262626; font-size: 13px; line-height: 1.5;">
+<span style="color: #262626; font-weight: 600;">Tech Stack:</span> React • Vite • Express • Tailwind CSS
+</p>
 
-<p style="margin: 0; color: #aab3bd; font-size: 13px; line-height: 1.5;"><span style="color: #709164; font-weight: 600;"></span> <a href="https://github.com/Jayashree-25/Journal_Web" style="color: #709164; text-decoration: none;">View Repository</a></p>
+<p style="margin: 0; font-size: 13px; line-height: 1.5;">
+<a href="https://github.com/Jayashree-25/CampusGig" style="color: #709164; text-decoration: none;">View Repository</a>
+</p>
 
 </div>
 
 </td>
+
+
+<td width="50%" valign="top" style="padding: 6px;">
+
+<div style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 18px 20px; height: 100%; box-sizing: border-box;">
+
+<p align="center" style="margin: 0 0 12px 0; font-weight: 700; font-size: 16px;">
+<a href="https://github.com/Jayashree-25/Journal_Web" style="color: #709164; text-decoration: none;">Journal_Web</a>
+</p>
+
+<p style="margin: 0 0 16px 0; color: #aab3bd; font-size: 13px; line-height: 1.55;">
+Full-stack journal application with JWT authentication for creating, editing, viewing, and deleting personal journal entries.
+</p>
+
+<p style="margin: 0 0 8px 0; color: #262626; font-size: 13px; line-height: 1.5;">
+<span style="color: #262626; font-weight: 600;">Tech Stack:</span> React • Express • MongoDB • JWT
+</p>
+
+<p style="margin: 0; font-size: 13px; line-height: 1.5;">
+<a href="https://github.com/Jayashree-25/Journal_Web" style="color: #709164; text-decoration: none;">View Repository</a>
+</p>
+
+</div>
+
+</td>
+
 </tr>
 </table>
 
