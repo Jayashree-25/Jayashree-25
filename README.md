@@ -47,7 +47,7 @@ Docker • GitHub Actions • Postman • VS Code
 <tr>
 <td width="50%" valign="top">
 
-### [CampusGig](https://github.com/Jayashree-25/CampusGig)
+<h3 align="center"><a href="https://github.com/Jayashree-25/CampusGig" style="color: #FE6E00; text-decoration: none;">📁 CampusGig</a></h3>
 
 Peer-to-peer campus marketplace where students can find, list, order, and message freelance gig services.
 
@@ -59,7 +59,7 @@ Peer-to-peer campus marketplace where students can find, list, order, and messag
 
 <td width="50%" valign="top">
 
-### [Journal_Web](https://github.com/Jayashree-25/Journal_Web)
+<h3 align="center"><a href="https://github.com/Jayashree-25/Journal_Web" style="color: #FE6E00; text-decoration: none;">📁 Journal_Web</a></h3>
 
 Full-stack journal application with JWT authentication for creating, editing, viewing, and deleting personal journal entries.
 
