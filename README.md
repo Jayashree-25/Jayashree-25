@@ -12,11 +12,13 @@
 
 ---
 
-###  About Me
+### About Me
 
-I build scalable web applications and production-ready digital products, with hands-on experience across frontend architecture, backend APIs, databases, authentication, and third-party integrations.
+- **Software Engineer & Full-Stack Developer** focused on building scalable web applications and production-ready digital products using React, TypeScript, Node.js, Express, PostgreSQL, and MongoDB.
 
-I've worked on multi-application systems, reusable UI architecture, full-stack website builders, role-based applications, and API-driven products. I enjoy breaking complex requirements into clean, maintainable solutions and building systems that can scale beyond a single application.
+- I enjoy working across the stack — from designing reliable frontend architecture and building APIs to working with databases, authentication, integrations, and scalable application workflows.
+
+- **Open to full-time Software Engineer / Full-Stack Developer opportunities**, and always eager to learn new technologies, take on challenging engineering problems, and build products that create real-world impact.
 
 ---
 
