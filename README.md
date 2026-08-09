@@ -12,7 +12,7 @@
 
 ---
 
-### 🌸 About Me
+###  About Me
 
 I build scalable web applications and production-ready digital products, with hands-on experience across frontend architecture, backend APIs, databases, authentication, and third-party integrations.
 
