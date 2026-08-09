@@ -45,27 +45,35 @@ Docker • GitHub Actions • Postman • VS Code
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 6px;">
 
-<h3 align="center"><a href="https://github.com/Jayashree-25/CampusGig" style="color: #FE6E00; text-decoration: none;">📁 CampusGig</a></h3>
+<div style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 18px 20px; height: 100%; box-sizing: border-box;">
 
-Peer-to-peer campus marketplace where students can find, list, order, and message freelance gig services.
+<p align="center" style="margin: 0 0 12px 0;"><a href="https://github.com/Jayashree-25/CampusGig" style="color: #709164; font-weight: 700; font-size: 16px; text-decoration: none;">CampusGig</a></p>
 
-**Tech Stack:** React • Vite • Express • Tailwind CSS
+<p style="margin: 0 0 16px 0; color: #aab3bd; font-size: 13px; line-height: 1.55;">Peer-to-peer campus marketplace where students can find, list, order, and message freelance gig services.</p>
 
-**Repo:** [github.com/Jayashree-25/CampusGig](https://github.com/Jayashree-25/CampusGig)
+<p style="margin: 0 0 8px 0; color: #aab3bd; font-size: 13px; line-height: 1.5;"><span style="color: #709164; font-weight: 600;">Tech Stack:</span> React • Vite • Express • Tailwind CSS</p>
+
+<p style="margin: 0; color: #aab3bd; font-size: 13px; line-height: 1.5;"><span style="color: #709164; font-weight: 600;">Repo:</span> <a href="https://github.com/Jayashree-25/CampusGig" style="color: #709164; text-decoration: none;">github.com/Jayashree-25/CampusGig</a></p>
+
+</div>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 6px;">
 
-<h3 align="center"><a href="https://github.com/Jayashree-25/Journal_Web" style="color: #FE6E00; text-decoration: none;">📁 Journal_Web</a></h3>
+<div style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 18px 20px; height: 100%; box-sizing: border-box;">
 
-Full-stack journal application with JWT authentication for creating, editing, viewing, and deleting personal journal entries.
+<p align="center" style="margin: 0 0 12px 0;"><a href="https://github.com/Jayashree-25/Journal_Web" style="color: #709164; font-weight: 700; font-size: 16px; text-decoration: none;">Journal_Web</a></p>
 
-**Tech Stack:** React • Express • MongoDB • JWT
+<p style="margin: 0 0 16px 0; color: #aab3bd; font-size: 13px; line-height: 1.55;">Full-stack journal application with JWT authentication for creating, editing, viewing, and deleting personal journal entries.</p>
 
-**Repo:** [github.com/Jayashree-25/Journal_Web](https://github.com/Jayashree-25/Journal_Web)
+<p style="margin: 0 0 8px 0; color: #aab3bd; font-size: 13px; line-height: 1.5;"><span style="color: #709164; font-weight: 600;">Tech Stack:</span> React • Express • MongoDB • JWT</p>
+
+<p style="margin: 0; color: #aab3bd; font-size: 13px; line-height: 1.5;"><span style="color: #709164; font-weight: 600;">Repo:</span> <a href="https://github.com/Jayashree-25/Journal_Web" style="color: #709164; text-decoration: none;">github.com/Jayashree-25/Journal_Web</a></p>
+
+</div>
 
 </td>
 </tr>
