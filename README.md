@@ -21,13 +21,22 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-- 💻 *Frontend:* HTML, CSS, JavaScript, React
-- 🚀 *Backend:* Node.js, Express.js
-- 🔗 *API & Tools:* RESTful APIs, Postman
-- 🗄 *Database:* MongoDB
-- 🔧 *Development Tools:* Git, GitHub, VS Code, Figma
+#### 💻 Frontend
+React • TypeScript • JavaScript • Tailwind CSS • HTML • CSS
+
+#### ⚙️ Backend
+Node.js • Express.js • REST APIs • JWT
+
+#### 🗄️ Database
+PostgreSQL • MongoDB • SQL
+
+#### 🧩 Architecture & Tools
+Turborepo • pnpm • Git • GitHub • Cloudinary
+
+#### ☁️ Deployment & Development
+Docker • GitHub Actions • Postman • VS Code
 
 ---
 
