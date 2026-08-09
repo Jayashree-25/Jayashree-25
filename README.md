@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center">💻 Frontend Enthusiast | Backend Learner | API Explorer | Web Developer 🚀</h3>
+<h3 align="center">🚀 Full-Stack Developer | Building scalable web applications | React • TypeScript • Node.js</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Woman Coding GIF" />
