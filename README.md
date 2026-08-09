@@ -43,27 +43,21 @@ Docker • GitHub Actions • Postman • VS Code
 
 ### 📌 Featured Projects
 
-<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 16px 20px; margin-bottom: 16px; background-color: #0d1117;">
+<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; margin: 16px 0;">
 
-### CampusGig
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 330px; background-color: #0d1117; text-align: left; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+    <a href="https://github.com/jayashree-25/CampusGig" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 14px;">📁 CampusGig</a>
+    <p style="color: #8b949e; font-size: 12px; margin: 8px 0 12px;">Peer-to-peer campus marketplace where students find, list, order, and message freelance gig services.</p>
+    <span style="color: #f1e05a; font-size: 12px;">●</span>
+    <span style="color: #8b949e; font-size: 12px;">JavaScript &nbsp;&nbsp; <a href="https://github.com/jayashree-25/CampusGig" style="color: #8b949e; text-decoration: none;">View Repo ↗</a></span>
+  </div>
 
-**About:** Peer-to-peer campus marketplace where students find, list, order, and message freelance gig services.
-
-**Tech Stack:** React • Vite • Tailwind CSS • Express.js
-
-[View Repository](https://github.com/jayashree-25/CampusGig)
-
-</div>
-
-<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 16px 20px; margin-bottom: 16px; background-color: #0d1117;">
-
-### Journal_Web
-
-**About:** Full-stack journal app with JWT authentication where users can add, edit, view, and delete personal journal entries.
-
-**Tech Stack:** React • Express.js • MongoDB • JWT
-
-[View Repository](https://github.com/jayashree-25/Journal_Web)
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 330px; background-color: #0d1117; text-align: left; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+    <a href="https://github.com/jayashree-25/Journal_Web" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 14px;">📁 Journal_Web</a>
+    <p style="color: #8b949e; font-size: 12px; margin: 8px 0 12px;">Full-stack journal app with JWT authentication for adding, editing, viewing, and deleting personal journal entries.</p>
+    <span style="color: #f1e05a; font-size: 12px;">●</span>
+    <span style="color: #8b949e; font-size: 12px;">JavaScript &nbsp;&nbsp; <a href="https://github.com/jayashree-25/Journal_Web" style="color: #8b949e; text-decoration: none;">View Repo ↗</a></span>
+  </div>
 
 </div>
 
