@@ -59,7 +59,7 @@ Peer-to-peer campus marketplace where students can find, list, order, and messag
 
 <td width="50%" valign="top">
 
-### [Journal Web](https://github.com/Jayashree-25/Journal_Web)
+### [Journal_Web](https://github.com/Jayashree-25/Journal_Web)
 
 Full-stack journal application with JWT authentication for creating, editing, viewing, and deleting personal journal entries.
 
@@ -70,6 +70,7 @@ Full-stack journal application with JWT authentication for creating, editing, vi
 </td>
 </tr>
 </table>
+
 ---
 
 ### 📊 GitHub Stats
