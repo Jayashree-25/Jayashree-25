@@ -43,9 +43,6 @@ Docker • GitHub Actions • Postman • VS Code
 ### 📌 Featured Projects
 
 - [**Journal_Web**](https://github.com/jayashree-25/Journal_Web) — Full-stack journal app with JWT authentication (React + Express + MongoDB)
-- [**Event Management Platform**](https://github.com/jayashree-25/Event-Management-Platform) — Event publishing, RSVP, and user dashboard
-- [**To-do List**](https://github.com/jayashree-25/To-do-list) — Simple vanilla JS task manager with localStorage
-- [**React Crash Course 2025**](https://github.com/jayashree-25/react-crash-2025) — Job listing app built with Brad Traversy's React course
 
 ---
 
