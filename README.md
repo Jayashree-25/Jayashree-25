@@ -12,7 +12,8 @@
 
 ---
 
-### 🌸 About Me:
+### 🌸 About Me
+
 - 🎨 Crafting *beautiful and functional* web applications with a passion for design and performance.
 - 🔥 Exploring *backend technologies* and *API development & integration* to enhance my skills.
 - 🌱 Currently diving into the *MERN stack*, database management, and API fetching.
@@ -20,7 +21,8 @@
 
 ---
 
-### 🛠 Tech Stack:
+### 🛠 Tech Stack
+
 - 💻 *Frontend:* HTML, CSS, JavaScript, React
 - 🚀 *Backend:* Node.js, Express.js
 - 🔗 *API & Tools:* RESTful APIs, Postman
@@ -29,7 +31,17 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📌 Featured Projects
+
+- [**Journal_Web**](https://github.com/jayashree-25/Journal_Web) — Full-stack journal app with JWT authentication (React + Express + MongoDB)
+- [**Event Management Platform**](https://github.com/jayashree-25/Event-Management-Platform) — Event publishing, RSVP, and user dashboard
+- [**To-do List**](https://github.com/jayashree-25/To-do-list) — Simple vanilla JS task manager with localStorage
+- [**React Crash Course 2025**](https://github.com/jayashree-25/react-crash-2025) — Job listing app built with Brad Traversy's React course
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayashree-25&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <br>
