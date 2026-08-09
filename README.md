@@ -48,15 +48,15 @@ Docker • GitHub Actions • Postman • VS Code
   <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 330px; background-color: #0d1117; text-align: left; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
     <a href="https://github.com/jayashree-25/CampusGig" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 14px;">📁 CampusGig</a>
     <p style="color: #8b949e; font-size: 12px; margin: 8px 0 12px;">Peer-to-peer campus marketplace where students find, list, order, and message freelance gig services.</p>
-    <span style="color: #f1e05a; font-size: 12px;">●</span>
-    <span style="color: #8b949e; font-size: 12px;">JavaScript &nbsp;&nbsp; <a href="https://github.com/jayashree-25/CampusGig" style="color: #8b949e; text-decoration: none;">View Repo ↗</a></span>
+    <p style="color: #8b949e; font-size: 12px; margin: 4px 0;"><strong style="color: #c9d1d9;">Tech Stack:</strong> React • Vite • Express • Tailwind CSS</p>
+    <p style="color: #8b949e; font-size: 12px; margin: 4px 0;"><strong style="color: #c9d1d9;">Repo:</strong> <a href="https://github.com/jayashree-25/CampusGig" style="color: #58a6ff; text-decoration: none;">github.com/jayashree-25/CampusGig ↗</a></p>
   </div>
 
   <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 330px; background-color: #0d1117; text-align: left; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
     <a href="https://github.com/jayashree-25/Journal_Web" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 14px;">📁 Journal_Web</a>
     <p style="color: #8b949e; font-size: 12px; margin: 8px 0 12px;">Full-stack journal app with JWT authentication for adding, editing, viewing, and deleting personal journal entries.</p>
-    <span style="color: #f1e05a; font-size: 12px;">●</span>
-    <span style="color: #8b949e; font-size: 12px;">JavaScript &nbsp;&nbsp; <a href="https://github.com/jayashree-25/Journal_Web" style="color: #8b949e; text-decoration: none;">View Repo ↗</a></span>
+    <p style="color: #8b949e; font-size: 12px; margin: 4px 0;"><strong style="color: #c9d1d9;">Tech Stack:</strong> React • Express • MongoDB • JWT</p>
+    <p style="color: #8b949e; font-size: 12px; margin: 4px 0;"><strong style="color: #c9d1d9;">Repo:</strong> <a href="https://github.com/jayashree-25/Journal_Web" style="color: #58a6ff; text-decoration: none;">github.com/jayashree-25/Journal_Web ↗</a></p>
   </div>
 
 </div>
