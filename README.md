@@ -41,7 +41,7 @@ Docker • GitHub Actions • Postman • VS Code
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
@@ -55,7 +55,7 @@ Docker • GitHub Actions • Postman • VS Code
 
 <p style="margin: 0 0 8px 0; color: #aab3bd; font-size: 13px; line-height: 1.5;"><span style="color: #709164; font-weight: 600;">Tech Stack:</span> React • Vite • Express • Tailwind CSS</p>
 
-<p style="margin: 0; color: #aab3bd; font-size: 13px; line-height: 1.5;"><span style="color: #709164; font-weight: 600;">Repo:</span> <a href="https://github.com/Jayashree-25/CampusGig" style="color: #709164; text-decoration: none;">View Repository</a></p>
+<p style="margin: 0; color: #aab3bd; font-size: 13px; line-height: 1.5;"><span style="color: #709164; font-weight: 600;"></span> <a href="https://github.com/Jayashree-25/CampusGig" style="color: #709164; text-decoration: none;">View Repository</a></p>
 
 </div>
 
@@ -71,7 +71,7 @@ Docker • GitHub Actions • Postman • VS Code
 
 <p style="margin: 0 0 8px 0; color: #aab3bd; font-size: 13px; line-height: 1.5;"><span style="color: #709164; font-weight: 600;">Tech Stack:</span> React • Express • MongoDB • JWT</p>
 
-<p style="margin: 0; color: #aab3bd; font-size: 13px; line-height: 1.5;"><span style="color: #709164; font-weight: 600;">Repo:</span> <a href="https://github.com/Jayashree-25/Journal_Web" style="color: #709164; text-decoration: none;">View Repository</a></p>
+<p style="margin: 0; color: #aab3bd; font-size: 13px; line-height: 1.5;"><span style="color: #709164; font-weight: 600;"></span> <a href="https://github.com/Jayashree-25/Journal_Web" style="color: #709164; text-decoration: none;">View Repository</a></p>
 
 </div>
 
