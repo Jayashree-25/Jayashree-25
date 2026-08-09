@@ -43,6 +43,7 @@ Docker • GitHub Actions • Postman • VS Code
 ### 📌 Featured Projects
 
 - [**Journal_Web**](https://github.com/jayashree-25/Journal_Web) — Full-stack journal app with JWT authentication (React + Express + MongoDB)
+- [**CampusGig**](https://github.com/jayashree-25/CampusGig) — Peer-to-peer campus marketplace for freelance gig services (React + Vite + Express)
 
 ---
 
