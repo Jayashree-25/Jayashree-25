@@ -41,26 +41,35 @@ Docker • GitHub Actions • Postman • VS Code
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; margin: 16px 0;">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 330px; background-color: #0d1117; text-align: left; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-    <a href="https://github.com/jayashree-25/CampusGig" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 14px;">📁 CampusGig</a>
-    <p style="color: #8b949e; font-size: 12px; margin: 8px 0 12px;">Peer-to-peer campus marketplace where students find, list, order, and message freelance gig services.</p>
-    <p style="color: #8b949e; font-size: 12px; margin: 4px 0;"><strong style="color: #c9d1d9;">Tech Stack:</strong> React • Vite • Express • Tailwind CSS</p>
-    <p style="color: #8b949e; font-size: 12px; margin: 4px 0;"><strong style="color: #c9d1d9;">Repo:</strong> <a href="https://github.com/jayashree-25/CampusGig" style="color: #58a6ff; text-decoration: none;">github.com/jayashree-25/CampusGig ↗</a></p>
-  </div>
+### [CampusGig](https://github.com/Jayashree-25/CampusGig)
 
-  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 330px; background-color: #0d1117; text-align: left; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-    <a href="https://github.com/jayashree-25/Journal_Web" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 14px;">📁 Journal_Web</a>
-    <p style="color: #8b949e; font-size: 12px; margin: 8px 0 12px;">Full-stack journal app with JWT authentication for adding, editing, viewing, and deleting personal journal entries.</p>
-    <p style="color: #8b949e; font-size: 12px; margin: 4px 0;"><strong style="color: #c9d1d9;">Tech Stack:</strong> React • Express • MongoDB • JWT</p>
-    <p style="color: #8b949e; font-size: 12px; margin: 4px 0;"><strong style="color: #c9d1d9;">Repo:</strong> <a href="https://github.com/jayashree-25/Journal_Web" style="color: #58a6ff; text-decoration: none;">github.com/jayashree-25/Journal_Web ↗</a></p>
-  </div>
+Peer-to-peer campus marketplace where students can find, list, order, and message freelance gig services.
 
-</div>
+**Tech Stack:** React • Vite • Express • Tailwind CSS
 
+**Repo:** [github.com/Jayashree-25/CampusGig](https://github.com/Jayashree-25/CampusGig)
+
+</td>
+
+<td width="50%" valign="top">
+
+### [Journal Web](https://github.com/Jayashree-25/Journal_Web)
+
+Full-stack journal application with JWT authentication for creating, editing, viewing, and deleting personal journal entries.
+
+**Tech Stack:** React • Express • MongoDB • JWT
+
+**Repo:** [github.com/Jayashree-25/Journal_Web](https://github.com/Jayashree-25/Journal_Web)
+
+</td>
+</tr>
+</table>
 ---
 
 ### 📊 GitHub Stats
