@@ -50,8 +50,8 @@ Docker • GitHub Actions • Postman • VS Code
 
 <div style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 18px 20px; height: 100%; box-sizing: border-box;">
 
-<p align="center" style="margin: 0 0 12px 0; font-weight: 700; font-size: 16px;">
-<a href="https://github.com/Jayashree-25/CampusGig" style="color: #709164; text-decoration: none;">CampusGig</a>
+<p align="center" style="margin: 0 0 12px 0; font-weight: 700; font-size: 16px; color: #709164;">
+CampusGig
 </p>
 
 <p style="margin: 0 0 16px 0; color: #aab3bd; font-size: 13px; line-height: 1.55;">
@@ -75,8 +75,8 @@ Peer-to-peer campus marketplace where students can find, list, order, and messag
 
 <div style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 18px 20px; height: 100%; box-sizing: border-box;">
 
-<p align="center" style="margin: 0 0 12px 0; font-weight: 700; font-size: 16px;">
-<a href="https://github.com/Jayashree-25/Journal_Web" style="color: #709164; text-decoration: none;">Journal_Web</a>
+<p align="center" style="margin: 0 0 12px 0; font-weight: 700; font-size: 16px; color: #709164;">
+Journal_Web
 </p>
 
 <p style="margin: 0 0 16px 0; color: #aab3bd; font-size: 13px; line-height: 1.55;">
