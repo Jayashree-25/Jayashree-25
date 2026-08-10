@@ -59,7 +59,7 @@ Peer-to-peer campus marketplace where students can find, list, order, and messag
 </p>
 
 <p style="margin: 0 0 8px 0; color: #262626; font-size: 13px; line-height: 1.5;">
-<span style="color: #262626; font-weight: 600;">Tech Stack:</span> React • Vite • Express • Tailwind CSS
+<span style="color: #c9d1d9; font-weight: 600;">Tech Stack:</span> React • Vite • Express • Tailwind CSS
 </p>
 
 <p style="margin: 0; font-size: 13px; line-height: 1.5;">
@@ -84,7 +84,7 @@ Full-stack journal application with JWT authentication for creating, editing, vi
 </p>
 
 <p style="margin: 0 0 8px 0; color: #262626; font-size: 13px; line-height: 1.5;">
-<span style="color: #262626; font-weight: 600;">Tech Stack:</span> React • Express • MongoDB • JWT
+<span style="color: #c9d1d9; font-weight: 600;">Tech Stack:</span> React • Express • MongoDB • JWT
 </p>
 
 <p style="margin: 0; font-size: 13px; line-height: 1.5;">
