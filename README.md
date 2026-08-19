@@ -80,7 +80,7 @@ Capa
 </p>
 
 <p style="margin: 0 0 8px 0; color: #262626; font-size: 13px; line-height: 1.5;">
-<span style="color: #709164; font-weight: 600;">About:</span> <span style="color: #aab3bd;">Full-stack capacity planner that tracks team workloads, assigns tasks with estimated hours, and flags overloaded team members.</span>
+<span style="color: #709164; font-weight: 600;"></span> <span style="color: #aab3bd;">Full-stack capacity planner that tracks team workloads, assigns tasks with estimated hours, and flags overloaded team members.</span>
 </p>
 
 <p style="margin: 0 0 8px 0; color: #262626; font-size: 13px; line-height: 1.5;">
