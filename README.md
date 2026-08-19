@@ -76,19 +76,19 @@ Peer-to-peer campus marketplace where students can find, list, order, and messag
 <div style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 18px 20px; height: 100%; box-sizing: border-box;">
 
 <p align="center" style="margin: 0 0 12px 0; font-weight: 700; font-size: 16px; color: #709164;">
-Journal_Web
+Capa
 </p>
 
 <p style="margin: 0 0 16px 0; color: #aab3bd; font-size: 13px; line-height: 1.55;">
-Full-stack journal application with JWT authentication for creating, editing, viewing, and deleting personal journal entries.
+Full-stack capacity planner that tracks team workloads, assigns tasks with estimated hours, and flags overloaded team members.
 </p>
 
 <p style="margin: 0 0 8px 0; color: #262626; font-size: 13px; line-height: 1.5;">
-<span style="color: #c9d1d9; font-weight: 600;">Tech Stack:</span> React • Express • MongoDB • JWT
+<span style="color: #c9d1d9; font-weight: 600;">Tech Stack:</span> React • Express • PostgreSQL • Tailwind CSS
 </p>
 
 <p style="margin: 0; font-size: 13px; line-height: 1.5;">
-<a href="https://github.com/Jayashree-25/Journal_Web" style="color: #709164; text-decoration: none;">View Repository</a>
+<a href="https://github.com/Jayashree-25/Capa" style="color: #709164; text-decoration: none;">View Repository</a>
 </p>
 
 </div>
